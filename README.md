@@ -10,9 +10,7 @@ The Python modules `Beautiful Soup 4`, `Requests`, and `Tabulate` are required t
 
 If using pip, run the following:
 ```
-pip install bs4
-pip install requests
-pip install tabulate
-``` 
+pip install -r requirements.txt
+```
 
 Configure Team IDs and ASK_QUESTIONS before launching.
